@@ -37,7 +37,7 @@ public class SetMapperTest {
                 "select * from EMPLOYEE where id = '7499'",
                 "src/test/resources/one"
         );
-    }
+    }//7499 7839
 
     @Test
     public void employeeMapRowAllTest() throws Exception {
